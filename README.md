@@ -1,4 +1,3 @@
-I'm back
 
 # Heavy Photon Search Toolkit for Reconstruction
 
